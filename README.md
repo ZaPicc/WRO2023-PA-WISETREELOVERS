@@ -15,8 +15,7 @@ This repository contains engineering materials of a self-driven vehicle's model 
 
 ## Introduction
 
-_This part must be filled by participants with the technical clarifications about the code: which modules the code consists of, how they are related to the electromechanical components of the vehicle, and what is the process to build/compile/upload the code to the vehicle’s controllers._
-
+Robots are the revolution of this era, we are going to use them for our daily tasks, actually we have already started using them in our daily live, in the World Robot Olympiad there are challenges that will help the society. In the category Future Engineers  
 ## How to prepare the repo based on the template
 
 _Remove this section before the first commit to the repository_
