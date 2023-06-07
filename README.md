@@ -15,11 +15,4 @@ This repository contains engineering materials of a self-driven vehicle's model 
 
 ## Introduction
 
-Robots are the revolution of this era, we are going to use them for our daily tasks, actually we have already started using them in our daily live, in the World Robot Olympiad there are challenges that will help the society. In the category Future Engineers  
-## How to prepare the repo based on the template
-
-_Remove this section before the first commit to the repository_
-
-1. Clone this repo by using the `git clone` functionality.
-2. Remove `.git` directory
-3. [Initialize a new public repository on GitHub](https://github.com/new) by following instructions from "create a new repository on the command line" section (appeared after pressing "Create repository" button).
+Robots are the revolution of this era, we are going to use them for our daily tasks, actually we have already started using them in our daily live, in the World Robot Olympiad there are challenges that will help the society.This year in the category Future Engineers we are evolving automatic cars to recognize objects and avoid them. That's why our robot "Wise mystical robot" is qualified to achieve this objectives, win and represent our country Panama. 
