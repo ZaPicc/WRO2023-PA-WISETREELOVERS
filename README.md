@@ -21,4 +21,10 @@ We actually started this project a year ago, unfortunaly, due to time issues, we
 
 ## April 
 
-This month is when we regroup because the official robotics club of our school started, the teacher and the school was so good with us that provided some materials for our robots and supported us and we started planning our meetings to progress with the olympiad
+This month is when we regroup because the official robotics club of our school started, the teacher and the school was so good with us that provided some materials for our robots and supported us and we started planning our meetings to progress with the olympiad. In this month we got a kind of prototype for the robot and started trying to get it move. We show to the teacher the robot and she liked it, so we continue with it.
+
+Was in this month when we decided to use ROS2 as a simulator for the robot to have everthing more tracked and to avoid problems with this one, because for experience of the past year this was the best option to test the behavior of the robot.
+
+## May
+
+In this month we started creating the official robot becacuse finaly the principal sensor that is the LIDAR had arrived. We do our first meet where we put on work the LiDAR and it succesfully connect and was working so that was a progress, we also get it to move. ROS2 needed Linux so we get down to work.
