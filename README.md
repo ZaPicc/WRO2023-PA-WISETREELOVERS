@@ -35,5 +35,8 @@ ROS2 needed Linux so we get down to work. We got a virtual computer to use linux
 
 This months were to focus on the programming part, that is the most complicated because he had a lot of issues and complications with ROS. Also we got some help that gave us recomendations with the problems and better solutions.
 
+
+
 Now, after talking of the story, basically the robot works this way:
 
+The robot have one motor, the motor boost the back wheels with the help of a motor controller (specificaly L298N) in the front we have a SERVO of 90° as directional axis. It has a camera on the front that helps with the color detection, and in the top it has a lidar sensor that basically helps to measure distances. For the programming, we have an arduino and an rock pi 4b, the programming is basically made with ROS2 in python.
