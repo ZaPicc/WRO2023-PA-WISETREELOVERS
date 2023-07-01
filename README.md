@@ -27,10 +27,13 @@ Was in this month when we decided to use ROS2 as a simulator for the robot to ha
 
 ## May
 
-In this month we started creating the official robot becacuse finaly the principal sensor that is the LIDAR had arrived. We do our first meet where we put on work the LiDAR and it succesfully connect and was working so that was a progress, we also get it to move. ROS2 needed Linux so we get down to work. We got a virtual computer to use linux and installed everthing we needed.
+In this month we started creating the official robot becacuse finaly the principal sensor that is the LIDAR had arrived. We do our first meet where we put on work the LiDAR and it succesfully connect and was working so that was a progress, we also get it to move. We decided to use ROS2 to have a better track of the movement of the robot because basically ROS2 is a simulator especially for robos and projects like this so this was the next step.
 
-##June and July
+ROS2 needed Linux so we get down to work. We got a virtual computer to use linux and installed everthing we needed.
 
-This months were to focus on the programming part, that is the most complicated because he had a lot of issues and complications with ROS.
+## June and July
 
+This months were to focus on the programming part, that is the most complicated because he had a lot of issues and complications with ROS. Also we got some help that gave us recomendations with the problems and better solutions.
+
+Now, after talking of the story, basically the robot works this way:
 
