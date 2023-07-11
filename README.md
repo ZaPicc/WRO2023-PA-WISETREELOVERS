@@ -1,3 +1,4 @@
+![wise mystical tree](https://github.com/ZaPicc/WRO2023-PA-WISETREELOVERS/assets/102268096/6635db0a-7b63-4e3e-be4d-107210e1db77)
 Engineering materials
 ====
 
@@ -49,3 +50,4 @@ FUNDASTEAM send us Angel Zaldaño Gutierrez to try to help us but he only said t
 
 ## Team name
 The team is name "Mystical Tree Lovers" this name was made because we love mystical trees with faces, it's something complicated but we hope you understand it.
+![wise mystical tree](https://github.com/ZaPicc/WRO2023-PA-WISETREELOVERS/assets/102268096/6635db0a-7b63-4e3e-be4d-107210e1db77)
