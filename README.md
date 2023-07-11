@@ -52,11 +52,11 @@ After that we had a few problems because in Panama there's no rasperrys in Panam
 
 First of all, thanks to our teacher and coach: Idanela Toscano, for supporting and visiting us all the trajectory.
 
-Thank you VERY MUCH TO 
-Josh Newans from articulated robotics
+Thank you VERY MUCH TO  Josh Newans from articulated robotics for the incredible and helpfull videos that make possible this.
 
 All the team behind ROS, slam and nav2
-FUNDASTEAM send us Angel Zaldaño Gutierrez to try to help us but he only said that we should ask to chatgpt to act like an integrator of systems.
+
+And specially thanks to FUNDASTEAM for sending us Angel Zaldaño Gutierrez to try to help us, but he only said that we should ask to chatgpt to act like an integrator of systems.
 
 ## Team name
 The team is name "Mystical Tree Lovers" this name was made because we love mystical trees with faces, it's something complicated but we hope you understand it.
