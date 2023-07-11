@@ -44,3 +44,8 @@ The robot have one motor, the motor boost the back wheels with the help of a mot
 First we tried with de rock pi 4, it was functional, but all the documentation was in CHINESE, we tried to use it anyways but it collapsed instantly, basically it doensn't have support for the card, all of them are olds and doesn't work. So we moved to an rasperry until we got a new one to replace it.
 
 After that we had a few problems because in Panama there's no rasperrys in Panama and not only that, the electronics only have things for cars and major things so basically there's no rasperry on sale here in Panama. Hopefully we find one external place that sell it and we buy it and now is thing of wait.
+
+FUNDASTEAM send us Angel Zaldaño Gutierrez to try to help us but he only said that we should ask to chatgpt to act like an integrator of systems.
+
+## Team name
+The team is name "Mystical Tree Lovers" this name was made because we love mystical trees with faces, it's something complicated but we hope you understand it.
