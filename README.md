@@ -38,7 +38,7 @@ ROS2 needed Linux so we get down to work. We got a virtual computer to use linux
 
 This months were to focus on the programming part, that is the most complicated because he had a lot of issues and complications with ROS. Also we got some help that gave us recomendations with the problems and better solutions.
 
-
+We had to buy an encoder to be able to interpret the speed of the car. The arduino nano stopped working forcing us to make a complete change in the electronics and the python system as such collapsed. In ROS there were some errors which literally meant that we had to re-install the system. Thanks to the fact that we had to delete python3.10 because we thought it was very new when we uninstalled python 3.10 our system stopped working, it crashed and we had to re-install everything. 👍
 
 ### Now, after talking of the story, basically the robot works this way:
 
@@ -56,7 +56,7 @@ Thank you VERY MUCH TO  Josh Newans from articulated robotics for the incredible
 
 All the team behind ROS, slam and nav2
 
-And specially thanks to FUNDASTEAM for sending us Angel Zaldaño Gutierrez to try to help us, but he only said that we should ask to chatgpt to act like an integrator of systems.
+And specially thanks to FUNDASTEAM for sending us Angel Zaldaño Gutierrez to try to help us, he said that we should ask to chatgpt to act like an integrator of systems.
 
 ## Team name
 The team is name "Mystical Tree Lovers" this name was made because we love mystical trees with faces, it's something complicated but we hope you understand it.
