@@ -40,6 +40,10 @@ This months were to focus on the programming part, that is the most complicated 
 
 We had to buy an encoder to be able to interpret the speed of the car. The arduino nano stopped working forcing us to make a complete change in the electronics and the python system as such collapsed. In ROS there were some errors which literally meant that we had to re-install the system. Thanks to the fact that we had to delete python3.10 because we thought it was very new when we uninstalled python 3.10 our system stopped working, it crashed and we had to re-install everything. 👍
 
+The Rasperry in a moment stopped to work, so we think that maybe it could have been the temperature, so we took precautions.
+![WhatsApp Image 2023-07-26 at 10 06 46 PM](https://github.com/ZaPicc/WRO2023-PA-WISETREELOVERS/assets/102268096/d83c33dc-fae0-44e9-a7fc-614a897e3fc3)
+
+
 ### Now, after talking of the story, basically the robot works this way:
 
 The robot have one motor, the motor boost the back wheels with the help of a motor controller (specificaly L298N) in the front we have a SERVO of 90° as directional axis. It has a camera on the front that helps with the color detection, and in the top it has a lidar sensor that basically helps to measure distances. For the programming, we have an arduino and an rock pi 4, the programming is basically made with ROS2 in python.
