@@ -57,7 +57,7 @@ After that we had a few problems because in Panama there's no rasperrys in Panam
 First of all, thanks to our teacher and coach: Idanela Toscano, for supporting and visiting us all the trajectory.
 
 Thank you VERY MUCH TO  Josh Newans from articulated robotics for the incredible and helpfull videos that make possible this.
-
+Thanks too to LDROBOT.
 All the team behind ROS, slam and nav2
 
 And specially thanks to FUNDASTEAM for sending us Angel Zaldaño Gutierrez to try to help us, he said that we should ask to chatgpt to act like an integrator of systems.
