@@ -43,6 +43,11 @@ We had to buy an encoder to be able to interpret the speed of the car. The ardui
 The Rasperry in a moment stopped responding, so we think that maybe it could have been the temperature, so we took precautions.
 ![WhatsApp Image 2023-07-26 at 10 06 46 PM](https://github.com/ZaPicc/WRO2023-PA-WISETREELOVERS/assets/102268096/d83c33dc-fae0-44e9-a7fc-614a897e3fc3)
 
+## The Final Countdown
+
+Now, in august, with the national just around the corner, we realized something. The Lidar that we got does'nt have a library in a language we understand the only one that we find, was in chinese, so, we got another one with an actual library that can helps us. We took a rest waiting for it to come but having everthing ready for when it arrives.
+
+Once it arrived, we instantly incorpored it to the robot to progress, we succesfully got a connection with the Lidar and the sensor, now is time to continue with the original idea of mapping the path so its more easy for the robot to detect objects and distances.
 
 ### Now, after talking of the story, basically the robot works this way:
 
@@ -53,13 +58,6 @@ The new model of tracking that we made with the new Lidar, basically works this 
 First we tried with de rock pi 4, it was functional, but all the documentation was in CHINESE, we tried to use it anyways but it collapsed instantly, basically it doensn't have support for the card, all of them are olds and doesn't work. So we moved to an rasperry until we got a new one to replace it.
 
 After that we had a few problems because in Panama there's no rasperrys in Panama and not only that, the electronics only have things for cars and major things so basically there's no rasperry on sale here in Panama. Hopefully we find one external place that sell it and we buy it and now is thing of wait.
-
-
-## The Final Countdown
-
-Now, in august, with the national just around the corner, we realized something. The Lidar that we got does'nt have a library in a language we understand the only one that we find, was in chinese, so, we got another one with an actual library that can helps us. We took a rest waiting for it to come but having everthing ready for when it arrives.
-
-Once it arrived, we instantly incorpored it to the robot to progress, we succesfully got a connection with the Lidar and the sensor, now is time to continue with the original idea of mapping the path so its more easy for the robot to detect objects and distances.
 
 ## Honorable mentions
 
