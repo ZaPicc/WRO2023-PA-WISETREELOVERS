@@ -46,7 +46,9 @@ The Rasperry in a moment stopped responding, so we think that maybe it could hav
 
 ### Now, after talking of the story, basically the robot works this way:
 
-The robot have one motor, the motor boost the back wheels with the help of a motor controller (specificaly L298N) in the front we have a SERVO of 90° as directional axis. It has a camera on the front that helps with the color detection, and in the top it has a lidar sensor that basically helps to measure distances. For the programming, we have an arduino and an rock pi 4, the programming is basically made with ROS2 in python.
+The robot have one motor, the motor boost the back wheels with the help of a motor controller (specificaly L298N) in the front we have a SERVO of 90° as directional axis. It has a camera on the front that helps with the color detection, and in the top it has a lidar sensor that basically helps to measure distances. For the programming, we have an arduino and an rock pi 4, the programming is basically made with python and C++ with arduino.
+
+The new model of tracking that we made with the new Lidar, basically works this way: THe Lidar will examine the distance around the map, and with that distance, it will know exactly the deegres that he must do to continue his way. The Lidar programation is made with pyhton and this connects to the arduino that is programmed in C++ for the motors.
 
 First we tried with de rock pi 4, it was functional, but all the documentation was in CHINESE, we tried to use it anyways but it collapsed instantly, basically it doensn't have support for the card, all of them are olds and doesn't work. So we moved to an rasperry until we got a new one to replace it.
 
