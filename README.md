@@ -45,31 +45,21 @@ The Rasperry in a moment stopped responding, so we think that maybe it could hav
 
 ## The Final Countdown
 
-Now, in august, with the national just around the corner, we realized something. The Lidar that we got does'nt have a library in a language we understand the only one that we find, was in chinese, so, we got another one with an actual library that can helps us. We took a rest waiting for it to come but having everthing ready for when it arrives.
+Now, in august, with the national just around the corner. First we tried with the rock pi 4, it was functional, but all the documentation was in CHINESE, we tried to use it anyways but it collapsed instantly, basically it doensn't have support for the card, all of them are olds and doesn't work. So we moved to an rasperry until we got a new one to replace it.
+
+After that we had a few problems because in Panama there's no rasperrys and not only that, the electronics only have things for cars and major things so basically there's no rasperry on sale here in Panama. Hopefully we find one external place that sell it and we buy it and now is thing of wait.
+
+We realized something. The Lidar that we got does'nt have a library in a language we understand the only one that we find, was in chinese, so, we got another one with an actual library that can helps us. We took a rest waiting for it to come but having everthing ready for when it arrives.
 
 Once it arrived, we instantly incorpored it to the robot to progress, we succesfully got a connection with the Lidar and the sensor, now is time to continue with the original idea of mapping the path so its more easy for the robot to detect objects and distances.
 
-### Now, after talking of the story, basically the robot works this way:
+## Now, after talking of the story, basically the robot works this way:
 
 The robot have one motor, the motor boost the back wheels with the help of a motor controller (specificaly L298N) in the front we have a SERVO of 90° as directional axis. It has a camera on the front that helps with the color detection, and in the top it has a lidar sensor that basically helps to measure distances. For the programming, we have an arduino and an rock pi 4, the programming is basically made with python and C++ with arduino.
 
-The new model of tracking that we made with the new Lidar, basically works this way: THe Lidar will examine the distance around the map, and with that distance, it will know exactly the deegres that he must do to continue his way. The Lidar programation is made with pyhton and this connects to the arduino that is programmed in C++ for the motors.
+The new model of tracking that we made with the new Lidar, basically works this way: THe Lidar will examine the distance around the map, and with that distance, it will know exactly the deegres that he must do to continue his way. The Lidar programation is made with pyhton and this connects to the arduino that is programmed in C++ for the motors. More specifically:
 
-First we tried with de rock pi 4, it was functional, but all the documentation was in CHINESE, we tried to use it anyways but it collapsed instantly, basically it doensn't have support for the card, all of them are olds and doesn't work. So we moved to an rasperry until we got a new one to replace it.
+### Mobility Management
+As explained before, the robot only have one motor that is a jga25-370, this motor is powered by an Arduino Nano programmed with C++. For the rotation we used a servomotor mg2e5 implementing an ackerman steering mechanism.
 
-After that we had a few problems because in Panama there's no rasperrys in Panama and not only that, the electronics only have things for cars and major things so basically there's no rasperry on sale here in Panama. Hopefully we find one external place that sell it and we buy it and now is thing of wait.
 
-## Honorable mentions
-
-First of all, thanks to our teacher and coach: Idanela Toscano, for supporting and visiting us all the trajectory.
-
-Thank you VERY MUCH TO  Josh Newans from articulated robotics for the incredible and helpfull videos that make possible this.
-Thanks too to LDROBOT.
-All the team behind ROS, slam and nav2
-
-And specially thanks to FUNDASTEAM for sending us Angel Zaldaño Gutierrez to try to help us, he said that we should ask to chatgpt to act like an integrator of systems.
-
-## Team name
-The team is name "Mystical Tree Lovers" this name was made because we love mystical trees with faces, it's something complicated but we hope you understand it.
-
-![wise mystical tree](https://cdn.mindustry.me/wise%20mystical%20tree.jpg)
