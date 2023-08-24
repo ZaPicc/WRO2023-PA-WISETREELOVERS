@@ -60,4 +60,11 @@ The robot have one motor, the motor boost the back wheels with the help of a mot
 The new model of tracking that we made with the new Lidar, basically works this way: THe Lidar will examine the distance around the map, and with that distance, it will know exactly the deegres that he must do to continue his way. The Lidar programation is made with pyhton and this connects to the arduino that is programmed in C++ for the motors. More specifically:
 
 ### Mobility Management
-As explained before, the robot only have one motor that is a jga25-370, this motor is powered by an Arduino Nano programmed with C++. For the rotation we used a servomotor mg2e5 implementing an ackerman steering mechanism.
+As explained before, the robot only have one motor that is a jga25-370, this motor is powered by an Arduino Nano programmed with C++. For the rotation we used a servomotor mg2e5 implementing an ackerman steering mechanism. The robot structure is very optimized and organized, this year the cables are better and we took out the necessary precautions with this design.
+
+### Power and Sense Management
+The power source of the robot is a lipo battery that can provide us enough power for everthing the robot have to do, and the sensor we use is a Lidar, is a single sensor because this one can scan the distance in 360° degrees, this safe us the martyrdom of having a lot of ultrasonic sensors for all the directions, for the part of the colors, we use a camera that is programmed with the rasperry in python with a program that can detect colors.
+
+
+### Obstacle Manegement
+For the round of obstacles, we use a camera with a program in python that can detect colors, this program is saved in the rasperry that connects to the arduino to tell the arduino the actions that have to do. The proramming is simple, if the camera detects red, the robot will turn right, if the camera detecs green, the robot will turn left.
