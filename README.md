@@ -61,5 +61,3 @@ The new model of tracking that we made with the new Lidar, basically works this 
 
 ### Mobility Management
 As explained before, the robot only have one motor that is a jga25-370, this motor is powered by an Arduino Nano programmed with C++. For the rotation we used a servomotor mg2e5 implementing an ackerman steering mechanism.
-
-
